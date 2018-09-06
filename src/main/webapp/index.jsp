@@ -7,5 +7,6 @@
 <a href="hello/test4">test4</a>
 <a href="hello/sayHi">访问表单</a>
 <a href="hello/hello">访问表单1</a>
+<a href="hi/yhx">通过@Pathvariable传递参数</a>
 </body>
 </html>
